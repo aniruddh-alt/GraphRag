@@ -36,4 +36,7 @@ GraphRag bridges the gap between structured graph representations and generative
 GraphRag has immense potential for expanding its scope to:  
 - Support larger knowledge graphs with multi-modal data.  
 - Enable integration with other graph databases and AI frameworks.  
-- Advance explainability for enterprise and academic use cases.  
+- Advance explainability for enterprise and academic use cases.
+
+![image](https://github.com/user-attachments/assets/1de9a649-903f-4b94-ad77-ac3f3e81775b)
+
